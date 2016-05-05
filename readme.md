@@ -11,8 +11,9 @@
 		<strong>Bocetado (Wireframing)</strong><br>
 		Antes de desarrollar, se deberá generar un boceto digital que defina el layout a implementar. Dicho boceto deberá tener 4 versiones así: LG, MD, SM y XS, para poder visualizar como se verá el mismo en las distintas resoluciones de pantalla.
 	</li>
+	<br><br>
 	<li>
-		<strong>b. Maquetado (Coding)</strong><br>
+		<strong>Maquetado (Coding)</strong><br>
 		En el desarrollo del "one page" se deberán implementar las siguientes tecnologías:
 		<ul>
 			<li>Html5</li>
@@ -25,11 +26,12 @@
 			</li>
 			<li>Flexbox (opcional)</li>
 		</ul>
-	
+		<br><br>
+
 		Los apartados de información que deberá contener el site "one page" serán (no necesariamente en este orden):
 		
 		<ul>
-			<li></li>Header / Navbar</ul>
+			<li>Header / Navbar</li>
 			<li>Banner</li>
 			<li>About Us</li>
 			<li>Services</li>
@@ -45,6 +47,7 @@
 
 		Se recomienda de igual manera hacer seguimiento de la optimización de la página a nivel de PageSpeed y minificaciónn de recursos. Pues dichos items serán tenidos en cuenta en la revisión final.
 	</li>
+	<br><br>
 	<li>
 		<strong>Entrega</strong><br>
 		La resolución del TP FINAL deberá quedar almacenado en el repositorio GitHub de cada uno de los integrantes del grupo, así como también subido al servidor de hosting de cada integrante.
