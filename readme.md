@@ -15,33 +15,33 @@
 		<strong>Maquetado (Coding)</strong>
 		<p>En el desarrollo del "one page" se deberán implementar las siguientes tecnologías:</p>
 		<ol>
-			<li>Html5</li>
-			<li>Sass (compilado como Css3)</li>
-			<li>Bootstrap 
-				<ul>
-					<li>Navbar desplegable en mobile</li>
-					<li>Modal boxes</li>
-				</ul>
-			</li>
-			<li>Flexbox (opcional)</li>
+		<li>Html5</li>
+		<li>Sass (compilado como Css3)</li>
+		<li>Bootstrap 
+			<ul>
+				<li>Navbar desplegable en mobile</li>
+				<li>Modal boxes</li>
+			</ul>
+		</li>
+		<li>Flexbox (opcional)</li>
 		</ol>
 
-	<p>Los apartados de información que deberá contener el site "one page" serán (no necesariamente en este orden):</p>
+		<p>Los apartados de información que deberá contener el site "one page" serán (no necesariamente en este orden):</p>
 		
-	<ol>
-	<li>Header - Navbar</li>
-	<li>Banner</li>
-	<li>About Us</li>
-	<li>Services</li>
-	<li>Portfolio</li>
-	<li>Work Team</li>
-	<li>Contact Us</li>
-	<li>Footer </li>
-	</ol>
+		<ol>
+			<li>Header - Navbar</li>
+			<li>Banner</li>
+			<li>About Us</li>
+			<li>Services</li>
+			<li>Portfolio</li>
+			<li>Work Team</li>
+			<li>Contact Us</li>
+			<li>Footer </li>
+		</ol>
 
-	<p>Las imagenes a usar, deberán ser suministradas por parte del grupo. Se recomienda que para las imágenes de Portolio y Work Team, las imágenes a trabajar tengan las mismas dimensiones así no tendrán problemas con el maquetado. Queda PROHIBIDO usar cualquier imagen utilizada en Tp's / Workshops anteriores.</p>
+		<p>Las imagenes a usar, deberán ser suministradas por parte del grupo. Se recomienda que para las imágenes de Portolio y Work Team, las imágenes a trabajar tengan las mismas dimensiones así no tendrán problemas con el maquetado. Queda PROHIBIDO usar cualquier imagen utilizada en Tp's / Workshops anteriores.</p>
 
-	<p>Se recomienda de igual manera hacer seguimiento de la optimización de la página a nivel de PageSpeed y minificaciónn de recursos. Pues dichos items serán tenidos en cuenta en la revisión final.</p>
+		<p>Se recomienda de igual manera hacer seguimiento de la optimización de la página a nivel de PageSpeed y minificaciónn de recursos. Pues dichos items serán tenidos en cuenta en la revisión final.</p>
 	</li>
 
 	<li>
