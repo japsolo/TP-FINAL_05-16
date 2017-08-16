@@ -6,7 +6,7 @@
 
 <p>En función de los logotipos entregados, el grupo de trabajo deberá elegir uno de ellos y trabajar en un sitio "one page" que deberá contemplar las siguientes etapas:</p>
 
-<ol>
+<ul>
 	<li>
 		<strong>Bocetado (Wireframing)</strong><br>
 		<p>Antes de desarrollar, se deberá generar un boceto digital que defina el layout a implementar. Dicho boceto deberá tener 4 versiones así: LG, MD, SM y XS, para poder visualizar como se verá el mismo en las distintas resoluciones de pantalla.</p>
@@ -51,6 +51,6 @@
 		<p>Dentro del repositorio deberá existir una carpeta/folder que contenga los wireframes elaborados en la etapa inicial.</p>
 		<p>Tener en cuenta que la revisión de los TP's de realizará el martes 10 de mayo, a las 21hs. Por lo tanto antes de este límite el trabajo deberá estar finalizado.</p>
 	</li>
-</ol>
+</ul>
 
 <p>Así que bueno, this is it!, y recuerden <strong><em>PROHIBIDO ENFERMARSE</em></strong>.</p>
