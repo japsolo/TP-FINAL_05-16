@@ -1,8 +1,8 @@
-#TP FINAL
+# TP FINAL
 
 Y buenos chicos, llegamos al final de nuestra cursada <em>(snif, snif)</em>. Así que aquí, paso a dejarles las consignas para el TP final, el cual será desarrollado en grupos (número de integrantes aún por definir).
 
-##== ONE PAGE SITE RESPONSIVE ==
+## == ONE PAGE SITE RESPONSIVE ==
 
 En función de los logotipos entregados, el grupo de trabajo deberá elegir uno de ellos y trabajar en un sitio "one page" que deberá contemplar las siguientes etapas:
 
